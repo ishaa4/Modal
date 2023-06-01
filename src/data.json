@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "subItems": ["ACN", "SVL"],
+            "folderName": "Toyota",
+            "parentFolderId": "aeb95158-8e21-45a8-95d7-896f43e231d7",
+            "createdBy": "sonu",
+            "modifiedBy": null,
+            "createdOn": "2023-05-22T05:35:55Z",
+            "modifiedOn": null
+        },
+        {
+            "id": "aeb95158-8e21-45a8-95d7-896f43e231d7",
+            "subItems": ["Second Agent"],
+            "folderName": "Nissan",
+            "parentFolderId": null,
+            "createdBy": "sonu",
+            "modifiedBy": null,
+            "createdOn": "2023-05-22T05:33:16Z",
+            "modifiedOn": null
+        },
+        {
+            "id": "vcv",
+            "folderName": "Jaguar",
+            "subItems": ["FollowUp", "SVL"],
+            "parentFolderId": null,
+            "createdBy": "deepak",
+            "modifiedBy": null,
+            "createdOn": null,
+            "modifiedOn": null
+        },
+        {
+            "id": "a6ad47f7-34f6-4f22-b89b-b904238e2b56",
+            "folderName": "TATA",
+            "subItems": ["FollowUp", "SVL"],
+            "parentFolderId": null,
+            "createdBy": "sonu",
+            "modifiedBy": null,
+            "createdOn": "2023-05-22T05:31:49Z",
+            "modifiedOn": null
+        }
+    ],
+    "dataSubfolder": [
+        {
+            "folderName": "SVL",
+            "active": true
+        },
+        {
+            "folderName": "ACN",
+            "active": false
+        }
+    ]
+}
